@@ -1,0 +1,9 @@
+{
+  
+  "scripts": {
+    "dev": "tailwindcss -i src/static/tw/tailwind-input.css -o src/static/css/cfehome-ui.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
